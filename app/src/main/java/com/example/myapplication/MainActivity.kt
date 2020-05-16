@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         //edit from owner remote
 
         //another edit from longway777 local
+        //ggg
     }
 }
